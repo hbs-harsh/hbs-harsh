@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbs-harsh" alt="hbs-harsh" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development,Tableau,Django**
+- 🌱 I’m currently learning **Android Development*
 
-- 💬 Ask me about **C++,C,Python,Dsa**
+- 💬 Ask me about **C++,Kotlin,Python,Dsa**
 
 - 📫 How to reach me **harshyadav00009@gmail.com**
 
